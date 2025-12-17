@@ -17,8 +17,7 @@
 I'm **Yatendra Kumar**, a passionate **Full Stack Developer** from India.  
 I love **problem solving** and **building modern web applications** using the **MERN stack**.  
 I consistently work on improving my **DSA skills using C++** and enjoy turning ideas into scalable products.
-
-- 🔭 **Currently Building:** Full Stack MERN Projects  
+- 🔭 **Currently Building:** [Stock Trading Platform](https://github.com/iyatendrakumar/zerodha-clone) 
 - 🌱 **Currently Learning:** Advanced React, Backend Optimization, System Design  
 - 💬 **Ask me about:** MERN Stack, C++, DSA, Web Development  
 - 📫 **Reach me at:** https://linkedin.com/in/iyatendrakumar  
